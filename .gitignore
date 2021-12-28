@@ -1,0 +1,8 @@
+*__pycache__
+*.pyc
+*.pkl
+tmp
+*.DS_Store
+.coverage
+.env
+*.ipynb_checkpoints
